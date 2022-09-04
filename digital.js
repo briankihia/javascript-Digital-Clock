@@ -1,8 +1,8 @@
 seconds = document.querySelector('.seconds')
 minutes = document.querySelector('.minutes')
 hours = document.querySelector('.hours')
-timeButton = document.querySelector('.twelve-hr-button')
-twentyFourButton = document.querySelector('.twenty-four-hr-button')
+// timeButton = document.querySelector('.twelve-hr-button')
+// twentyFourButton = document.querySelector('.twenty-four-hr-button')
 
 setInterval(time, 1000)
 
